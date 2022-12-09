@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/builderver2/Downloads/MWARE_APP_91/node_modules/react-native-play-services/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/builderver2/.gradle/caches/transforms-2/files-2.1/dcbd7da2d64e3ee57d062bc4e5706239/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/builderver2/Downloads/MWARE_APP_91/node_modules/react-native-play-services/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/builderver2/.gradle/caches/transforms-2/files-2.1/dcbd7da2d64e3ee57d062bc4e5706239/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/builderver2/Downloads/MWARE_APP_91/node_modules/react-native-play-services/android/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/builderver2/.gradle/caches/transforms-2/files-2.1/dcbd7da2d64e3ee57d062bc4e5706239/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/builderver2/Downloads/MWARE_APP_91/node_modules/react-native-play-services/android/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/builderver2/.gradle/caches/transforms-2/files-2.1/dcbd7da2d64e3ee57d062bc4e5706239/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/builderver2/Downloads/MWARE_APP_91/node_modules/react-native-play-services/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/builderver2/.gradle/caches/transforms-2/files-2.1/dcbd7da2d64e3ee57d062bc4e5706239/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/builderver2/Downloads/MWARE_APP_91/node_modules/react-native-play-services/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/builderver2/.gradle/caches/transforms-2/files-2.1/5c008add4e59b50bb66a7bc5b42f53b0/res/drawable-v21/notification_action_background.xml"
+    }
+]
